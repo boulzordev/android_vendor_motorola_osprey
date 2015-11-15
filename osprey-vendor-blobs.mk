@@ -310,6 +310,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/osprey/proprietary/vendor/lib/libwifiscanner.so:system/vendor/lib/libwifiscanner.so \
     vendor/motorola/osprey/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/motorola/osprey/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
+    vendor/motorola/osprey/proprietary/vendor/lib/libWVphoneAPI.so:system/vendor/lib/libWVphoneAPI.so \
     vendor/motorola/osprey/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/motorola/osprey/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/motorola/osprey/proprietary/vendor/lib/libxtadapter.so:system/vendor/lib/libxtadapter.so \
